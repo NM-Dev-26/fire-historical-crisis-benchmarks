@@ -32,6 +32,7 @@ All calculators run 100% client-side with automatic local persistence, `?plan=..
 * **[Best Free ProjectionLab Alternative (2026)](https://novaplanner.app/welcome/projectionlab-alternative/)** — Side-by-side comparison of NovaPlanner vs. ProjectionLab ($108–$140/yr).
 * **[Best Free Boldin (NewRetirement) Alternative (2026)](https://novaplanner.app/welcome/boldin-newretirement-alternative/)** — Side-by-side comparison of NovaPlanner vs. Boldin PlannerPlus ($144/yr).
 * **[Best Free Finary Alternative (2026)](https://novaplanner.app/welcome/finary-alternative/)** — Privacy-first European & global FIRE simulator without mandatory bank login syncing.
+* **[Meilleure Alternative Gratuite à Finary (FR — 2026)](https://novaplanner.app/welcome/alternative-finary-gratuite/)** — Simulateur Retraite & FIRE gratuit en français sans connexion bancaire.
 * **[Best Free UK Voyant & Timeline Cashflow Modelling Alternative](https://novaplanner.app/welcome/voyant-cashflow-alternative/)** — Institutional cashflow stress testing for DIY UK SIPP & ISA investors.
 * **[Modern Visual Alternative to cFIREsim & FIRECalc](https://novaplanner.app/welcome/cfiresim-firecalc-alternative/)** — Interactive Monte Carlo & crisis cohorts vs. legacy 1990s form calculators.
 * **[Privacy-First Empower (Personal Capital) Retirement Planner Alternative](https://novaplanner.app/welcome/empower-personal-capital-alternative/)** — Run Monte Carlo retirement projections without linking bank credentials or getting advisor sales calls.
